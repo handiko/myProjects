@@ -25,4 +25,5 @@ The current list of my projects on GitHub (will be updated)
 
 ## Others
 * All Band HF Propagation Prediction for CQ WW DX Contest 2018 [Repo](https://github.com/handiko/PropPred)
+* MicroHAM-MK2 Settings for CQ WW CW DX Contest [Repo](https://github.com/handiko/MicroHAM-MK2), [GitHub page](https://handiko.github.io/MicroHAM-MK2/)
 
