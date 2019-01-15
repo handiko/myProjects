@@ -7,9 +7,10 @@ The current list of my projects on GitHub (will be updated)
 * iBeacon using a JDY-08 BLE module [Repo](https://github.com/handiko/iBeacon), [GitHub page](https://handiko.github.io/iBeacon/)
 
 ## Software Defined Radio
-* How to Stream the Audio Out from GNU Radio into VLC Media Player [Repo](https://github.com/handiko/RTL-FM-VLC), [GitHub page](https://handiko.github.io/RTL-FM-VLC/)
+* Receiving and demodulating Russian weather satellite signal [article on hackster](https://www.hackster.io/handiko/receiving-russian-s-satellite-weather-image-from-space-d4618d)
 * gr-APRS - A GNU Radio Block for Receiving APRS [Repo](https://github.com/handiko/gr-APRS), [GitHub page](https://handiko.github.io/gr-APRS/)
 * gr-Merapi - A GNU Radio Block for Telemetry [Repo](https://github.com/handiko/gr-Merapi), [GitHub page](https://handiko.github.io/gr-Merapi/)
+* How to Stream the Audio Out from GNU Radio into VLC Media Player [Repo](https://github.com/handiko/RTL-FM-VLC), [GitHub page](https://handiko.github.io/RTL-FM-VLC/)
 * GNU Radio App to receive and demodulate morse code transmission from Seoul, South Korea [Repo](https://github.com/handiko/SDR-8500khz/tree/master/HLG%20Receiver)
 
 ## Antenna
