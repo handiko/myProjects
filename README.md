@@ -13,15 +13,15 @@ The current list of my projects on GitHub (will be updated)
 * How to Stream the Audio Out from GNU Radio into VLC Media Player [Repo](https://github.com/handiko/RTL-FM-VLC), [GitHub page](https://handiko.github.io/RTL-FM-VLC/)
 * GNU Radio App to receive and demodulate morse code transmission from Seoul, South Korea [Repo](https://github.com/handiko/SDR-8500khz/tree/master/HLG%20Receiver)
 
-## Antenna
-* 4 Elements Yagi Antenna for 144.3 MHz [Repo](https://github.com/handiko/Yagi-4E-144), [GitHub page](https://handiko.github.io/Yagi-4E-144/)
-* 80 M Band Loop Antenna (simulation) [Repo](https://github.com/handiko/80M-Band-Loop)
-
 ## Hardware
 * Arduino UNO Shield for Dorji DRA818V/U Transmitter [Repo](https://github.com/handiko/Dorji-TX-Shield), [GitHub page](https://handiko.github.io/Dorji-TX-Shield/)
 * MMIC VHF Low Noise Amplifier [Repo](https://github.com/handiko/VHF-LNA), [GitHub page](https://handiko.github.io/VHF-LNA/)
 * Eagle Library for PGA-103+ [Repo](https://github.com/handiko/PGA103-Eagle-Library)
 * EME Sequencer (Code) [Repo](https://github.com/handiko/SequencerCode)
+
+## Antenna
+* 4 Elements Yagi Antenna for 144.3 MHz [Repo](https://github.com/handiko/Yagi-4E-144), [GitHub page](https://handiko.github.io/Yagi-4E-144/)
+* 80 M Band Loop Antenna (simulation) [Repo](https://github.com/handiko/80M-Band-Loop)
 
 ## Others
 * All Band HF Propagation Prediction for CQ WW DX Contest 2018 [Repo](https://github.com/handiko/PropPred)
