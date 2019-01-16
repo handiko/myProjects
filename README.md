@@ -11,7 +11,7 @@ The current list of my projects on GitHub (will be updated)
 * gr-APRS - A GNU Radio Block for Receiving APRS [Repo](https://github.com/handiko/gr-APRS), [GitHub page](https://handiko.github.io/gr-APRS/)
 * gr-Merapi - A GNU Radio Block for Telemetry [Repo](https://github.com/handiko/gr-Merapi), [GitHub page](https://handiko.github.io/gr-Merapi/)
 * How to Stream the Audio Out from GNU Radio into VLC Media Player [Repo](https://github.com/handiko/RTL-FM-VLC), [GitHub page](https://handiko.github.io/RTL-FM-VLC/)
-* GNU Radio App to receive and demodulate morse code transmission from Seoul, South Korea [Repo](https://github.com/handiko/SDR-8500khz/tree/master/HLG%20Receiver)
+* GNU Radio App to receive and demodulate morse code transmission from Seoul, South Korea [article on wordpress](https://labsdl.wordpress.com/2018/08/20/receiving-post-processing-hlg-seoul-radio-using-rtl-sdr-and-gnu-radio/), [Repo](https://github.com/handiko/SDR-8500khz/tree/master/HLG%20Receiver)
 
 ## Hardware
 * Arduino UNO Shield for Dorji DRA818V/U Transmitter [Repo](https://github.com/handiko/Dorji-TX-Shield), [GitHub page](https://handiko.github.io/Dorji-TX-Shield/)
