@@ -18,6 +18,7 @@ The current list of my projects on GitHub (will be updated)
 * Arduino UNO Shield for Dorji DRA818V/U Transmitter [Repo](https://github.com/handiko/Dorji-TX-Shield), [GitHub page](https://handiko.github.io/Dorji-TX-Shield/)
 * MMIC VHF Low Noise Amplifier [Repo](https://github.com/handiko/VHF-LNA), [GitHub page](https://handiko.github.io/VHF-LNA/)
 * Eagle Library for PGA-103+ [Repo](https://github.com/handiko/PGA103-Eagle-Library)
+* Eagle Library for ESP-12E/F [Repo](https://github.com/handiko/ESP-12EF-Eagle-Library/), [GitHub page](https://handiko.github.io/ESP-12EF-Eagle-Library/)
 * EME Sequencer (Code) [Repo](https://github.com/handiko/SequencerCode)
 
 ## Antenna
