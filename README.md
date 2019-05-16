@@ -4,6 +4,7 @@ The current list of my projects on GitHub (will be updated)
 ## Arduino Stuff
 * Arduino RFpainter - Abusing FMCW to paint cats on your spectrogram [Repo](https://github.com/handiko/Arduino-RFpainter/), [GitHub page](https://handiko.github.io/Arduino-RFpainter/)
 * Arduino APRS [Repo](https://github.com/handiko/Arduino-APRS), [GitHub page](https://handiko.github.io/Arduino-APRS/)
+* An ESP12 MQTT IoT Simple Demonstration [Repo](https://github.com/handiko/ESP12-MQTT-IoT-Demo), [GitHub page](https://handiko.github.io/ESP12-MQTT-IoT-Demo/)
 * Reflashing JDY-08 with HM-10 BLE firmware [Repo](https://github.com/handiko/JDY-08-Reflash), [GitHub page](https://handiko.github.io/JDY-08-Reflash/)
 * iBeacon using a JDY-08 BLE module [Repo](https://github.com/handiko/iBeacon), [GitHub page](https://handiko.github.io/iBeacon/)
 * MyGPS - A GPS GPRMC parser library for Arduino: [Repo](https://github.com/handiko/MyGPS), [GitHub page](https://handiko.github.io/MyGPS)
