@@ -26,6 +26,7 @@ The current list of my projects on GitHub (will be updated)
 * EME Sequencer (Code) [Repo](https://github.com/handiko/SequencerCode)
 
 ## Antenna
+* 10/15m Band - Portable Yagi Antenna [Repo](https://github.com/handiko/Portable-Yagi-10-15-2E), [GitHub page](https://handiko.github.io/Portable-Yagi-10-15-2E/)
 * 4 Elements Yagi antenna for 144.3 MHz [Repo](https://github.com/handiko/Yagi-4E-144), [GitHub page](https://handiko.github.io/Yagi-4E-144/)
 * 80 M band loop antenna (simulation) [Repo](https://github.com/handiko/80M-Band-Loop)
 
