@@ -30,6 +30,7 @@ The current list of my projects on GitHub (will be updated)
 * 4 Elements Yagi antenna for 144.3 MHz [Repo](https://github.com/handiko/Yagi-4E-144), [GitHub page](https://handiko.github.io/Yagi-4E-144/)
 * 80 M band loop antenna (simulation) [Repo](https://github.com/handiko/80M-Band-Loop)
 * 3 Elements Yagi Antenna for 7.1 MHz (40 m band) [Repo](https://github.com/handiko/3E-40M-YAGI), [Github page](https://handiko.github.io/3E-40M-YAGI/)
+* Rotary WARC Band dipole antenna [Repo](https://github.com/handiko/Rotary-WARC-Band-Dipole), [Github page](https://handiko.github.io/Rotary-WARC-Band-Dipole/)
 
 ## Others
 * All-band HF propagation prediction for CQ WW DX Contest 2018 [Repo](https://github.com/handiko/PropPred)
